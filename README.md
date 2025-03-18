@@ -25,5 +25,5 @@ categoria (quantidade e valor), um histograma de idades
 e um de distribuição de rendas dos clientes.
 - **Filtros:** Criar filtros de categorias (bandeira, estado, canal de
 venda, departamento, idade, faixa de renda, estado de
-nascimento)
+nascimento).
 
