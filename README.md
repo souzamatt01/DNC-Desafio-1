@@ -27,3 +27,4 @@ e um de distribuição de rendas dos clientes.
 venda, departamento, idade, faixa de renda, estado de
 nascimento).
 
+**Arquivo em Power BI disponível dentro desde Repositório**
